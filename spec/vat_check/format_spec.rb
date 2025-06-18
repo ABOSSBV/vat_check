@@ -4,6 +4,7 @@ describe VatCheck::Format do
   valid_vat_ids = [
     'ATU99999999',        # AT-Austria
     'BE0999999999',       # BE-Belgium
+    'BE1999999999',       # BE-Belgium
     'BG999999999',        # BG-Bulgaria
     'BG9999999999',       # BG-Bulgaria
     'CY99999999L',        # CY-Cyprus
